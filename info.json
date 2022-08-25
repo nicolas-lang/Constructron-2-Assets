@@ -1,11 +1,11 @@
 {
-	"name": "nco-ModTemplate",
-	"version": "0.0.1",
-	"title": "Mod Template",
-	"author": "Karoschl",
-	"contact": "",
-	"homepage": "",
-	"description": "Basic Mod Template, check github for details",
+	"name": "Constructron-2-Assets",
+	"version": "0.0.2",
+	"title": "Constructron 2 Assets",
+	"author": "Karoschl & ILLISIS",
+	"contact": "https://discord.com/invite/m9TDSsH3u2",
+	"homepage": "https://discord.com/invite/m9TDSsH3u2",
+	"description": "Constructron 2 Assets, check github for details",
 	"factorio_version": "1.1",
 	"dependencies": [
 		"base >= 1.0"
